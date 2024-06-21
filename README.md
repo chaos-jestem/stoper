@@ -1,10 +1,2 @@
 # stoper
-# stoper
-# stoper
-# stoper
-# stoper
-# stoper
-# stoper
-# stoper
-# stoper
-# stoper
+JavaScript stopper
